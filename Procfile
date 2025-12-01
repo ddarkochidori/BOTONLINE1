@@ -1,1 +1,1 @@
-web: python3 megami_soporte.py
+web: python3 Discord.py
